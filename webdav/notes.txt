@@ -1,0 +1,3 @@
+server=https://docvaultstorage.com
+user=service
+password=d6cf94428f0b7b9abc6e3d3aee43df09b165757c
